@@ -46,6 +46,7 @@ layout: page
 
 - [How to create an item]({{site.url}}/articles/how-to-create-an-item)
 - [How to create a tax scheme]({{site.url}}/articles/how-to-create-a-tax-scheme)
+- [How to collaborate with team]({{site.url}}/articles/how-to-collaborate-with-team)
 
 - - -
 
@@ -53,6 +54,8 @@ layout: page
 
 - [How to add an income]({{site.url}}/articles/how-to-add-an-income)
 - [How to add an expense]({{site.url}}/articles/how-to-add-an-expense)
+- [How to edit or delete a transaction]({{site.url}}/articles/how-to-edit-delete-income-expense)
+- [How to categorise transactions]({{site.url}}/articles/how-to-categorise-transactions)
 - [How to add payment to an invoice]({{site.url}}/articles/how-to-add-payment-to-an-invoice)
 - [How to import transactions from bank and card statements]({{site.url}}/articles/how-to-import-bank-card-statements)
 
