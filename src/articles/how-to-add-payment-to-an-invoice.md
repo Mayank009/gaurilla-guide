@@ -5,9 +5,7 @@ layout: article
 ---
 It is a good habit to keep track of how much much you have earned and how much is expected. This lets you do just that.
 
-1. Login into your Gaurilla account and set the workspace.
-
-2. You can add an income against an invoice in two ways:
+1. You can add an income against an invoice in two ways:
 
 	1. **Immediate Payment**: We understand that you might have clients who pay you immediately after receiving your invoice. For these moments, click **Pay** button in the top-right corner right after publishing an invoice.
 
@@ -15,7 +13,7 @@ It is a good habit to keep track of how much much you have earned and how much i
 
 		![invoice-pay]({{site.url}}/images/slips/pay.png)
 
-3. For a healthy record-keeping, please fill in as many things you can.
+2. For a healthy record-keeping, please fill in as many things you can.
 
 	![invoice-income-create]({{site.url}}/images/transactions/income-new-modal.png)
 
@@ -41,6 +39,6 @@ It is a good habit to keep track of how much much you have earned and how much i
 
 		> **Pro Tip:** Write anything that you want to remember for this income.
 
-4. Click on **Save** to add the income.
+3. Click on **Save** to add the income.
 
 	> **Pro Tip:** Now onwards, this income is visible in the list in **Transactions** >> **Incomes** section.

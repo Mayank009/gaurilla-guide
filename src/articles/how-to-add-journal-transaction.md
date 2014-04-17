@@ -5,17 +5,15 @@ layout: article
 ---
 We understand how journal transactions can be a must-have for your business requirements. And Gaurilla have got your covered.
 
-1. Login into your Gaurilla account and set the workspace.
-
-2. Click on **Accounting** >> **Journals** option from the main navigation bar.
+1. Click on **Accounting** >> **Journals** option from the main navigation bar.
 
 	![journal-navigation]({{site.url}}/images/navigation/accounting.png)
 
-3. Click on the **New** button at the top right corner and a **Journal Entry** form will open.
+2. Click on the **New** button at the top right corner and a **Journal Entry** form will open.
 
 	![journal-new-navigation]({{site.url}}/images/accounting/journal-transactions-new-navigation.png)
 
-4. Now fill that form as follows:
+3. Now fill that form as follows:
 
 	![journal-transaction-new]({{site.url}}/images/accounting/journal-transaction-new.png)
 
@@ -35,4 +33,4 @@ We understand how journal transactions can be a must-have for your business requ
 
 	4. Once done, click on **Save** button to add the journal entry.
 
-5. Added journal entry can be seen in the list of journal entires on the page in which you will be redirected.
+4. Added journal entry can be seen in the list of journal entires on the page in which you will be redirected.

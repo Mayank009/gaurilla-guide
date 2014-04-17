@@ -5,18 +5,16 @@ layout: article
 ---
 It's tough to come with a hard-to-guess password, but in case you come up with one. Here's how you can change it.
 
-1. Login into your Gaurilla account and set any workspace.
-
-2. Click on **Settings** >> **Profile** option from main navigation bar in the left side.
+1. Click on **Settings** >> **Profile** option from main navigation bar in the left side.
 
 	![password-navigation]({{site.url}}/images/navigation/settings.png)
 
-3. Scroll to the **Password** section.
+2. Scroll to the **Password** section.
 
 	![password-form]({{site.url}}/images/settings/password.png)
 
-4. Fill in your current password in the **Current Password** field.
+3. Fill in your current password in the **Current Password** field.
 
-5. Then fill your new password twice in the **New Password** and **Confirm Password** fields respectively.
+4. Then fill your new password twice in the **New Password** and **Confirm Password** fields respectively.
 
-6. Click on **Change Password** button to apply changes. Voila! Done.
+5. Click on **Change Password** button to apply changes. Voila! Done.

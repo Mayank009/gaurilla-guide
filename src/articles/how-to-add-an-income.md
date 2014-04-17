@@ -5,17 +5,15 @@ layout: article
 ---
 You can record any kind of money that comes in using this process. Whether it is a payment to the invoice you have sent or any indirect income like interest in bank.
 
-1. Login into your Gaurilla account and set the workspace.
-
-2. Click on the **Transactions** >> **Incomes** option from the main navigation bar in the left.
+1. Click on the **Transactions** >> **Incomes** option from the main navigation bar in the left.
 
 	![incomes-navigation]({{site.url}}/images/navigation/transactions.png)
 
-3. Click on **New** button available at the top right corner.
+2. Click on **New** button available at the top right corner.
 
 	![incomes-new]({{site.url}}/images/transactions/income-filter-new.png)
 
-4. Now fill in the income form as follows:
+3. Now fill in the income form as follows:
 
 	![income-create]({{site.url}}/images/transactions/income-new-modal.png)
 
@@ -41,6 +39,6 @@ You can record any kind of money that comes in using this process. Whether it is
 
 		> **Pro Tip:** Write anything that you want to remember for this income.
 
-5. Click on **Save** to add the income.
+4. Click on **Save** to add the income.
 
 	> **Pro Tip:** Now onwards, this income is visible in the list in **Transactions** >> **Incomes** section.

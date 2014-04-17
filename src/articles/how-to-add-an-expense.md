@@ -5,17 +5,16 @@ layout: article
 ---
 Keeping track of what goes out is equally important as tracking what comes in. This process lets you record an expense quickly.
 
-1. Login into your Gaurilla account and set the workspace.
 
-2. Click on the **Transactions** >> **Expenses** option from the main navigation bar in the left.
+1. Click on the **Transactions** >> **Expenses** option from the main navigation bar in the left.
 
 	![expenses-navigation]({{site.url}}/images/navigation/transactions.png)
 
-3. Click on **New** button available at the top right corner.
+2. Click on **New** button available at the top right corner.
 
 	![expenses-new]({{site.url}}/images/transactions/expense-filter-new.png)
 
-4. Now fill in the expense form as follows:
+3. Now fill in the expense form as follows:
 
 	![expense-create]({{site.url}}/images/transactions/expense-new-modal.png)
 
@@ -39,6 +38,6 @@ Keeping track of what goes out is equally important as tracking what comes in. T
 
 		> **Pro Tip:** Write anything that you want to remember for this expense.
 
-5. Click on **Save** to add the expense.
+4. Click on **Save** to add the expense.
 
 	> **Pro Tip:** Now onwards, this expense is visible in the list in **Transactions** >> **Expenses** section.

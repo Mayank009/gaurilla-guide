@@ -5,17 +5,15 @@ layout: article
 ---
 Tax scheme is a group of taxes with one primary tax and multiple secondary taxes that can be calculated and added in quote/invoice. Primary tax amount is calulated on the sub-total of slip while secondary taxes are calculated on primary tax amount.
 
-1. Login to your Gaurilla account and set the required workspace.
-
-2. Click on the **Settings** >> **Taxes** to start managing taxes.
+1. Click on the **Settings** >> **Taxes** to start managing taxes.
 
 	![taxes-navigation]({{site.url}}/images/navigation/settings.png)
 
-3. Click on **New** button in the top right corner of the window.
+2. Click on **New** button in the top right corner of the window.
 
 	![taxes-new]({{site.url}}/images/taxes/filter-new.png)
 
-4. A pop up window opens that lets you to create new scheme.
+3. A pop up window opens that lets you to create new scheme.
 
 	![tax-create]({{site.url}}/images/taxes/new-modal.png)
 
@@ -31,4 +29,4 @@ Tax scheme is a group of taxes with one primary tax and multiple secondary taxes
 
 	4. Finally, click on the **Create** button to create the tax scheme.
 
-5. Once created, the pop-up window will close and the newly created scheme will be seen in the list.
+4. Once created, the pop-up window will close and the newly created scheme will be seen in the list.
